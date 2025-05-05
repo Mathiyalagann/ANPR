@@ -42,7 +42,7 @@ ANPR/
 
 📸 Sample Output :
 
-Input Image (![alt text](result1.png)) → Detected Plate(![alt text](result5.png)) → Recognized Number(![alt text](result6.png))
+Input Image ![alt text](result1.png) → Detected Plate![alt text](result5.png) → Recognized Number![alt text](result6.png)
 
 ✅ Features :
 
@@ -75,5 +75,7 @@ This project is open-source and available under the MIT License.
 🙋‍♂️ Author
 
 Mathiyalagan
+
 Electronics and Communication Engineering Student
+
 GitHub: Mathiyalagann
