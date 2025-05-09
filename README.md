@@ -19,10 +19,14 @@ ANPR is a computer vision application that uses image processing to extract vehi
 ## 📂 Project Structure
 
 ANPR/
-├── images/                  # Input vehicle images
-├── results/                 # Output images with detected plates
-├── ANPR_Main.m             # Main MATLAB script
-└── README.md               # Project documentation
+
+├── images/                    # Input vehicle images
+
+├── results/                   # Output images with detected plates
+
+├── ANPR_Main.m                # Main MATLAB script
+
+└── README.md                  # Project documentation
 
 
 ## ▶️ How to Run
@@ -42,7 +46,18 @@ ANPR/
 
 📸 Sample Output :
 
-Input Image ![alt text](result1.png) → Detected Plate![alt text](result5.png)→ Recognized Number![alt text](result6.png)
+
+Input Image → 
+
+![alt text](result1.png) 
+
+Detected Plate → 
+
+![alt text](result5.png)
+
+Recognized Number  
+
+![alt text](result6.png)
 
 ✅ Features :
 
